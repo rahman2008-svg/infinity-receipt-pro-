@@ -1,0 +1,6 @@
+{
+  "name": "Infinity Receipt Pro+",
+  "description": "Create professional receipts, cash memos, estimates and invoices in seconds.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
